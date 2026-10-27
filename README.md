@@ -7,14 +7,14 @@ I enjoy backend work and solving logical problems. In daily coding I use AI-assi
 
 ## What I work with
 
-- **Languages:** Python, C#, C++, PHP, JavaScript, R
-- **Backend & web:** Django, SQL (MySQL), HTML, CSS
+- **Languages:** Python, PHP, C#, C++, JavaScript, R
+- **Backend & web:** Django, PHP, SQL (MySQL), HTML, CSS
 - **Other:** Linux, Windows Server, Azure, Git/GitHub, OpenCV
 
 ## Commercial work
 
-- **[LawRus Database](https://lawrus.ihpan.edu.pl/)** — database and web application for a research project funded by the National Science Centre, Poland (Python/Django). I designed the database and build the application, plugins and documentation; ongoing development and maintenance.
-- **[PsyMetLab](https://psymetlab.pl/)** — website and information system for a private client (Python, Django, R).
+- **[LawRus Database](https://lawrus.ihpan.edu.pl/)** — database and web application for a research project funded by the National Science Centre, Poland (PHP). I designed the database and built application components, plugins and documentation; ongoing development and maintenance.
+- **[PsyMetLab](https://psymetlab.pl/)** — website and information system for a private client, built in a two-person team. I worked on parts of the backend and frontend (Python, Django).
 
 The source code of these projects is not public.
 
