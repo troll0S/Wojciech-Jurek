@@ -28,5 +28,5 @@ The source code of these projects is not public.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/wojciech-jurek-825027339)
-[Mail](ketio.gm@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/wojciech-jurek-825027339)
+- [Mail](ketio.gm@gmail.com)
